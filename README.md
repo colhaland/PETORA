@@ -2,8 +2,7 @@
 
 **Sistem Manajemen Terpadu Petshop & Petcare**
 **Dokumen Baseline Contract | 14 September 2026**
-**Status:** Normative technical contract. Berlaku bersama `docs/00-baseline-governance.md` dan `docs/01-product-baseline.md`.
-
+**Status:** Normative technical contract.
 > **Catatan:** Isi dokumen ini adalah target kontrak teknis; keberadaan dokumentasi tidak berarti implementasi sudah tersedia atau production-ready.
 
 ---
