@@ -263,4 +263,4 @@ Konvensi kode, aturan agen, dan kriteria selesai ada di `AGENTS.md`.
 
 ## Lisensi
 
-Hak cipta © {tahun} {nama pemilik}. Seluruh hak dilindungi. Perangkat lunak ini bersifat proprietary dan tidak untuk didistribusikan tanpa izin tertulis dari pemilik.
+Hak cipta ©2026 PETORA INDONESIA. Seluruh hak dilindungi. Perangkat lunak ini bersifat proprietary dan tidak untuk didistribusikan tanpa izin tertulis dari pemilik.
